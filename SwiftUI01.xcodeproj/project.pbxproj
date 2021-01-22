@@ -14,6 +14,7 @@
 		DA1FE5E425BAA9B10084FABD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA1FE5E325BAA9B10084FABD /* Preview Assets.xcassets */; };
 		DA1FE5E725BAA9B10084FABD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA1FE5E525BAA9B10084FABD /* LaunchScreen.storyboard */; };
 		DA1FE5F025BAAEEE0084FABD /* MyVstackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1FE5EF25BAAEEE0084FABD /* MyVstackView.swift */; };
+		DA832B7125BAB3EB0053C875 /* MyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA832B7025BAB3EA0053C875 /* MyTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DA1FE5E625BAA9B10084FABD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA1FE5E825BAA9B10084FABD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA1FE5EF25BAAEEE0084FABD /* MyVstackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVstackView.swift; sourceTree = "<group>"; };
+		DA832B7025BAB3EA0053C875 /* MyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DA1FE5DC25BAA9AF0084FABD /* SceneDelegate.swift */,
 				DA1FE5DE25BAA9AF0084FABD /* ContentView.swift */,
 				DA1FE5EF25BAAEEE0084FABD /* MyVstackView.swift */,
+				DA832B7025BAB3EA0053C875 /* MyTextView.swift */,
 				DA1FE5E025BAA9B10084FABD /* Assets.xcassets */,
 				DA1FE5E525BAA9B10084FABD /* LaunchScreen.storyboard */,
 				DA1FE5E825BAA9B10084FABD /* Info.plist */,
@@ -152,6 +155,7 @@
 				DA1FE5DD25BAA9AF0084FABD /* SceneDelegate.swift in Sources */,
 				DA1FE5F025BAAEEE0084FABD /* MyVstackView.swift in Sources */,
 				DA1FE5DF25BAA9AF0084FABD /* ContentView.swift in Sources */,
+				DA832B7125BAB3EB0053C875 /* MyTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
